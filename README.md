@@ -31,8 +31,13 @@ The transfer method is called twice. Calling a method twice unnecessarily can ha
 
 ## Grade:
 Compile (10): 10
+
 Run (20): 18 
+
 Fish (10): 10 
+
 Tank (30): 29 
+
 Tester (20): 18 
+
 Comments, name(10): 7 
