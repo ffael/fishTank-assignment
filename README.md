@@ -1,4 +1,4 @@
-Due: Sept. 28 2018
+# Due: Sept. 28 2018
 
 Please read the instructions in the attached document carefully before starting to write code.
 
@@ -11,22 +11,8 @@ Remove package statement from the top of all files, if your IDE adds it.
 Make sure that you add proper comments for appropriate lines of code as well as all methods.
 Any questions, ask me only, since this is an assignment.
 
-Grading Rubric
 
-Compile (10):
-
-Run (20):
-
-Fish (10):
-
-Tank (30):
-
-Tester (20):
-
-Comments, name(10)
-
-
-Professor's Comments and Grade:
+## Professor's Comments:
 
 You must pay attention to compiler warnings, to write reliable and ﻿﻿secure code.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ 
 The type of item for ArrayList must be indicated when it is being initialized, even if your IDE doesn't catch that.
@@ -42,14 +28,11 @@ The tester is not testing all the methods, as evident from the output.
 
 The transfer method is called twice. Calling a method twice unnecessarily can have negative consequences.
 
+
+## Grade:
 Compile (10): 10
-
 Run (20): 18 
-
 Fish (10): 10 
-
 Tank (30): 29 
-
 Tester (20): 18 
-
 Comments, name(10): 7 
